@@ -1,5 +1,5 @@
 {
-    "name": "venveo/craft3-mix",
+    "name": "sekonda/craft3-mix",
     "description": "Helper plugin for rev-manifest in Craft templates",
     "type": "craft-plugin",
     "version": "1.0.4",
